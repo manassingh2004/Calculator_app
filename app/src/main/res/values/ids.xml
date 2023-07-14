@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="n1" type="id" />
+    <item name="n2" type="id" />
+    <item name="n3" type="id" />
+    <item name="n4" type="id" />
+    <item name="n5" type="id" />
+    <item name="n6" type="id" />
+    <item name="n7" type="id" />
+    <item name="n8" type="id" />
+    <item name="n9" type="id" />
+    <item name="nadd" type="id" />
+    <item name="nsub" type="id" />
+    <item name="ndiv" type="id" />
+    <item name="clr" type="id" />
+    <item name="Sin" type="id" />
+    <item name="Cos" type="id" />
+    <item name="sqrt" type="id" />
+</resources>
